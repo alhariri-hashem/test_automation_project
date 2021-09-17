@@ -1,0 +1,6 @@
+
+__pycache__/__init__.cpython-39.pyc
+__pycache__/excpetions.cpython-39.pyc
+datagen/__pycache__/__init__.cpython-39.pyc
+*.pyc
+*.jpeg
