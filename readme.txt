@@ -5,4 +5,3 @@ git clone https://github.com/alhariri-hashem/test_automation_project.git
 3)	Execute this command
 py explore.py --testId <enter the test id from testrail>
 
-![](https://github.com/alhariri-hashem/test_automation_project/blob/Demo/Demo1.gif)
