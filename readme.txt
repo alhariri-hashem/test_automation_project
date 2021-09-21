@@ -4,3 +4,5 @@ To use this project follow the below steps:
 git clone https://github.com/alhariri-hashem/test_automation_project.git
 3)	Execute this command
 py explore.py --testId <enter the test id from testrail>
+
+Demo:
