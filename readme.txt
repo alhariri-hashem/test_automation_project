@@ -6,3 +6,4 @@ git clone https://github.com/alhariri-hashem/test_automation_project.git
 py explore.py --testId <enter the test id from testrail>
 
 Demo:
+<img src="Demo1.gif"/>
